@@ -64,7 +64,7 @@ body {
   --base-font: 'Plus Jakarta Sans', sans-serif;
   --heading-font: 'Plus Jakarta Sans', sans-serif;
   --script-font: 'Playfair Display', serif;
-  --primary-color: #C4EF17;
+  --primary-color: #0BB094;
   --heading-color: #FFFFFF;
   --base-color: #83827F;
   --lighter-color: rgba(255, 255, 255, 0.06);
@@ -4535,6 +4535,7 @@ h6,
 .main-header .logo {
   z-index: 9;
   padding: 2px 0;
+  width: 170px;
   position: relative;
 }
 
@@ -5237,9 +5238,9 @@ h6,
   filter: blur(350px);
   -webkit-animation: 5s zoomInOut infinite;
   animation: 5s zoomInOut infinite;
-  background: -webkit-linear-gradient(323deg, #C8F31D 23.12%, #C8F31D 58.49%, rgba(223, 40, 24, 0) 90.7%);
-  background: -o-linear-gradient(323deg, #C8F31D 23.12%, #C8F31D 58.49%, rgba(223, 40, 24, 0) 90.7%);
-  background: linear-gradient(127deg, #C8F31D 23.12%, #C8F31D 58.49%, rgba(223, 40, 24, 0) 90.7%);
+  background: -webkit-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, rgba(223, 40, 24, 0) 90.7%);
+  background: -o-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, rgba(223, 40, 24, 0) 90.7%);
+  background: linear-gradient(127deg, #0BB094 23.12%, #0BB094 58.49%, rgba(223, 40, 24, 0) 90.7%);
 }
 
 .hero-area:before {
@@ -5254,9 +5255,13 @@ h6,
   filter: blur(800px);
   -webkit-animation: 5s zoomInOut infinite;
   animation: 5s zoomInOut infinite;
-  background: -webkit-linear-gradient(323deg, #C8F31D 23.12%, rgba(200, 243, 29, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
-  background: -o-linear-gradient(323deg, #C8F31D 23.12%, rgba(200, 243, 29, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
-  background: linear-gradient(127deg, #C8F31D 23.12%, rgba(200, 243, 29, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
+  background: -webkit-linear-gradient(323deg, #0BB094 23.12%, rgba(11, 176, 148, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
+  background: -o-linear-gradient(323deg, #0BB094 23.12%, rgba(11,
+        176,
+        148, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
+  background: linear-gradient(127deg, #0BB094 23.12%, rgba(11,
+        176,
+        148, 0.62) 58.49%, rgba(80, 98, 10, 0) 90.7%);
 }
 
 .hero-shape {
@@ -5850,9 +5855,9 @@ h6,
   -webkit-transform: translate(-50%);
   -ms-transform: translate(-50%);
   transform: translate(-50%);
-  background: -webkit-linear-gradient(323deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
-  background: -o-linear-gradient(323deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
-  background: linear-gradient(127deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
+  background: -webkit-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
+  background: -o-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
+  background: linear-gradient(127deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
 }
 
 /*******************************************************/
@@ -7302,7 +7307,7 @@ h6,
 .portfolio-item.style-three .hover-box {
   -webkit-backdrop-filter: blur(3.5px);
   backdrop-filter: blur(3.5px);
-  background: rgba(196, 239, 23, 0.38);
+  background: rgba(11, 176, 148, 0.38);
   -webkit-transform: translate(-50%, -50%) scale(0);
   -ms-transform: translate(-50%, -50%) scale(0);
   transform: translate(-50%, -50%) scale(0);
@@ -9112,9 +9117,9 @@ h6,
   height: 456px;
   -webkit-filter: blur(350px);
   filter: blur(350px);
-  background: -webkit-linear-gradient(323deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
-  background: -o-linear-gradient(323deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
-  background: linear-gradient(127deg, #C4EF17 23.12%, #C4EF17 58.49%, #C4EF17 90.7%);
+  background: -webkit-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
+  background: -o-linear-gradient(323deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
+  background: linear-gradient(127deg, #0BB094 23.12%, #0BB094 58.49%, #0BB094 90.7%);
 }
 
 .team-shapes .shape {
